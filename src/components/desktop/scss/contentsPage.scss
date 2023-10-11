@@ -1,0 +1,35 @@
+
+.page__content {
+  padding: var(--baseline);
+  height: 100%;
+  position: relative;
+  text-align: center;
+
+  &-table {
+    width: 100%;
+    margin-top: calc(var(--baseline) * 2);
+    text-align: center;
+    padding-left: calc(var(--baseline) * 5);
+    padding-right: calc(var(--baseline) * 5);
+
+    td {
+      font-family: var(--title);
+      font-size: calc(var(--base-size) * 1);
+      padding-bottom: calc(var(--baseline) * 1.5);
+      text-transform: uppercase;
+
+    }
+  }
+
+  &-title {
+    margin-bottom: calc(var(--baseline) * 3.5) !important;
+  }
+}
+
+.content-left {
+  width: 80%;
+}
+
+.content-right {
+  width: 20%;
+}

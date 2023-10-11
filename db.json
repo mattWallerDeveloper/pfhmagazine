@@ -1,0 +1,39 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "title": "A message from our Founder",
+      "startPage": 2
+    },
+    {
+      "id": 2,
+      "title": "Crowley on Kona",
+      "startPage": 3
+    },
+    {
+      "id": 3,
+      "title": "The Pros Products of choice",
+      "startPage": 10
+    },
+    {
+      "id": 3,
+      "title": "Placeholder",
+      "startPage": 12
+    },
+    {
+      "id": 3,
+      "title": "Placeholder",
+      "startPage": 19
+    },
+    {
+      "id": 3,
+      "title": "Placeholder",
+      "startPage": 25
+    },
+    {
+      "id": 3,
+      "title": "Placeholder",
+      "startPage": 30
+    }
+  ]
+}
